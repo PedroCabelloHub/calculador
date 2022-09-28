@@ -17,7 +17,7 @@ function App() {
   });
 
   return (
-    <div class="bodycalc">
+    <div class="grid-container">
       <Display values={values} />
       <NumberBtns values={values} setValues={setValues} />
       <OperatorBtns values={values} setValues={setValues} />

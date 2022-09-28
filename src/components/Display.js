@@ -3,7 +3,7 @@ import './Design.css'
 
 const Display = () => {
   return (
-    <div>Display for calculator</div>
+    <div className='grid-item-display'>Display for calculator</div>
   )
 }
 
